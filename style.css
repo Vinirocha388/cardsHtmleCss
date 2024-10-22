@@ -106,7 +106,11 @@ img {
 }
 
 /* Tabelas */
-#type-table .table {
+#type-table {   
+    background-color: rgb(179, 179, 179);
+}
+
+table {
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
